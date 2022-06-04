@@ -35,3 +35,7 @@ out/
 
 ### VS Code ###
 .vscode/
+
+### QueryDsl QClass ###
+/src/main/generated/
+/src/test/generated_tests/
